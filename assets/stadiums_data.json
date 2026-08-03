@@ -1,0 +1,302 @@
+[
+  {
+    "team": "New York Yankees",
+    "name": "Yankee Stadium",
+    "league": "AL",
+    "teamColor": "#0C2340",
+    "latitude": 40.8296,
+    "longitude": -73.9262,
+    "description": "百年邪惡帝國的傳奇主場",
+    "localImagePath": "assets/stadium_photos/yankee_stadium.jpg"
+  },
+  {
+    "team": "Boston Red Sox",
+    "name": "Fenway Park",
+    "league": "AL",
+    "teamColor": "#BD3039",
+    "latitude": 42.3467,
+    "longitude": -71.0972,
+    "description": "擁有綠色怪物左外野牆的最古老球場",
+    "localImagePath": "assets/stadium_photos/fenway_park.jpg"
+  },
+  {
+    "team": "Los Angeles Dodgers",
+    "name": "Dodger Stadium",
+    "league": "NL",
+    "teamColor": "#005A9C",
+    "latitude": 34.0739,
+    "longitude": -118.2400,
+    "description": "好萊塢星光閃耀的西岸棒球聖地",
+    "localImagePath": "assets/stadium_photos/dodger_stadium.jpg"
+  },
+  {
+    "team": "Chicago Cubs",
+    "name": "Wrigley Field",
+    "league": "NL",
+    "teamColor": "#0E3386",
+    "latitude": 41.9484,
+    "longitude": -87.6553,
+    "description": "外野佈滿常春藤的歷史經典球場",
+    "localImagePath": "assets/stadium_photos/wrigley_field.jpg"
+  },
+  {
+    "team": "San Francisco Giants",
+    "name": "Oracle Park",
+    "league": "NL",
+    "teamColor": "#FD5A1E",
+    "latitude": 37.7786,
+    "longitude": -122.3893,
+    "description": "全壘打會直接掉進海裡的全美最美球場",
+    "localImagePath": "assets/stadium_photos/oracle_park.jpg"
+  },
+  {
+    "team": "New York Mets",
+    "name": "Citi Field",
+    "league": "NL",
+    "teamColor": "#002D62",
+    "latitude": 40.7571,
+    "longitude": -73.8458,
+    "description": "皇后區大都會隊的摩登棒球殿堂",
+    "localImagePath": "assets/stadium_photos/citi_field.jpg"
+  },
+  {
+    "team": "Houston Astros",
+    "name": "Minute Maid Park",
+    "league": "AL",
+    "teamColor": "#002D62",
+    "latitude": 29.7573,
+    "longitude": -95.3555,
+    "description": "外野有蒸汽小火車奔跑的室內主場",
+    "localImagePath": "assets/stadium_photos/minute_maid_park.jpg"
+  },
+  {
+    "team": "Atlanta Braves",
+    "name": "Truist Park",
+    "league": "NL",
+    "teamColor": "#CE1141",
+    "latitude": 33.8907,
+    "longitude": -84.4678,
+    "description": "與購物娛樂特區完美結合的新世代球場",
+    "localImagePath": "assets/stadium_photos/truist_park.jpg"
+  },
+  {
+    "team": "Toronto Blue Jays",
+    "name": "Rogers Centre",
+    "league": "AL",
+    "teamColor": "#134A8E",
+    "latitude": 43.6414,
+    "longitude": -79.3894,
+    "description": "加拿大唯一主場 坐落於CN塔旁的巨蛋",
+    "localImagePath": "assets/stadium_photos/rogers_centre.jpg"
+  },
+  {
+    "team": "Seattle Mariners",
+    "name": "T-Mobile Park",
+    "league": "AL",
+    "teamColor": "#0C2C56",
+    "latitude": 47.5914,
+    "longitude": -122.3325,
+    "description": "水手隊極具工業風的可開合屋頂球場",
+    "localImagePath": "assets/stadium_photos/t-mobile_park.jpg"
+  },
+  {
+    "team": "San Diego Padres",
+    "name": "Petco Park",
+    "league": "NL",
+    "teamColor": "#041E42",
+    "latitude": 32.7073,
+    "longitude": -117.1567,
+    "description": "完美融入聖地牙哥市中心的市區球場",
+    "localImagePath": "assets/stadium_photos/petco_park.jpg"
+  },
+  {
+    "team": "Philadelphia Phillies",
+    "name": "Citizens Bank Park",
+    "league": "NL",
+    "teamColor": "#E81828",
+    "latitude": 39.9061,
+    "longitude": -75.1665,
+    "description": "擁有自由鐘慶祝裝置的費城狂熱主場",
+    "localImagePath": "assets/stadium_photos/citizens_bank_park.jpg"
+  },
+  {
+    "team": "Texas Rangers",
+    "name": "Globe Life Field",
+    "league": "AL",
+    "teamColor": "#003274",
+    "latitude": 32.7473,
+    "longitude": -97.0842,
+    "description": "斥資巨額打造的德州舒適空調巨蛋",
+    "localImagePath": "assets/stadium_photos/globe_life_field.jpg"
+  },
+  {
+    "team": "St. Louis Cardinals",
+    "name": "Busch Stadium",
+    "league": "NL",
+    "teamColor": "#C41E3A",
+    "latitude": 38.6226,
+    "longitude": -90.1928,
+    "description": "外野可遠眺聖路易大拱門的紅雀聖地",
+    "localImagePath": "assets/stadium_photos/busch_stadium.jpg"
+  },
+  {
+    "team": "Milwaukee Brewers",
+    "name": "American Family Field",
+    "league": "NL",
+    "teamColor": "#12284C",
+    "latitude": 43.0280,
+    "longitude": -87.9712,
+    "description": "外野有吉祥物滑梯的歡樂密爾瓦基球場",
+    "localImagePath": "assets/stadium_photos/american_family_field.jpg"
+  },
+  {
+    "team": "Los Angeles Angels",
+    "name": "Angel Stadium",
+    "league": "AL",
+    "teamColor": "#BA0021",
+    "latitude": 33.8003,
+    "longitude": -117.8827,
+    "description": "外野擁有震撼岩石噴泉的經典球場",
+    "localImagePath": "assets/stadium_photos/angel_stadium.jpg"
+  },
+  {
+    "team": "Arizona Diamondbacks",
+    "name": "Chase Field",
+    "league": "NL",
+    "teamColor": "#A71930",
+    "latitude": 33.4453,
+    "longitude":-111.9867,
+    "description": "外野設有游泳池的沙漠空調巨蛋",
+    "localImagePath": "assets/stadium_photos/chase_field.jpg"
+  },
+  {
+    "team": "Minnesota Twins",
+    "name": "Target Field",
+    "league": "AL",
+    "teamColor": "#002B5C",
+    "latitude": 44.9817,
+    "longitude": -93.2778,
+    "description": "具有當代石灰岩設計的明尼蘇達主場",
+    "localImagePath": "assets/stadium_photos/target_field.jpg"
+  },
+  {
+    "team": "Colorado Rockies",
+    "name": "Coors Field",
+    "league": "NL",
+    "teamColor": "#333366",
+    "latitude": 39.7559,
+    "longitude": -104.9942,
+    "description": "位於丹佛一哩高的打者天堂",
+    "localImagePath": "assets/stadium_photos/coors_field.jpg"
+  },
+  {
+    "team": "Miami Marlins",
+    "name": "loanDepot park",
+    "league": "NL",
+    "teamColor": "#00A3E0",
+    "latitude": 25.7781,
+    "longitude": -80.2197,
+    "description": "洋溢邁阿密熱帶繽紛色彩的室內巨蛋",
+    "localImagePath": "assets/stadium_photos/loandepot_park.jpg"
+  },
+  {
+    "team": "Baltimore Orioles",
+    "name": "Oriole Park at Camden Yards",
+    "league": "AL",
+    "teamColor": "#DF4601",
+    "latitude": 39.2840,
+    "longitude": -76.6215,
+    "description": "開啟復古球場風潮的近代美學經典",
+    "localImagePath": "assets/stadium_photos/oriole_park_at_camden_yards.jpg"
+  },
+  {
+    "team": "Chicago White Sox",
+    "name": "Guaranteed Rate Field",
+    "league": "AL",
+    "teamColor": "#27251F",
+    "latitude": 41.8299,
+    "longitude": -87.6337,
+    "description": "芝加哥南區硬派風格的白襪主場",
+    "localImagePath": "assets/stadium_photos/guaranteed_rate_field.jpg"
+  },
+  {
+    "team": "Cincinnati Reds",
+    "name": "Great American Ball Park",
+    "league": "NL",
+    "teamColor": "#C6011F",
+    "latitude": 39.0979,
+    "longitude": -84.5067,
+    "description": "外野擁有煙火煙囪的俄亥俄河畔球場",
+    "localImagePath": "assets/stadium_photos/great_american_ball_park.jpg"
+  },
+  {
+    "team": "Cleveland Guardians",
+    "name": "Progressive Field",
+    "league": "AL",
+    "teamColor": "#0C2340",
+    "latitude": 41.4958,
+    "longitude": -81.6852,
+    "description": "外野擁有極高左外野牆的守護者主場",
+    "localImagePath": "assets/stadium_photos/progressive_field.jpg"
+  },
+  {
+    "team": "Detroit Tigers",
+    "name": "Comerica Park",
+    "league": "AL",
+    "teamColor": "#0C233F",
+    "latitude": 42.3390,
+    "longitude": -83.0485,
+    "description": "到處充滿老虎雕像與噴泉的底特律主場",
+    "localImagePath": "assets/stadium_photos/comerica_park.jpg"
+  },
+  {
+    "team": "Kansas City Royals",
+    "name": "Kauffman Stadium",
+    "league": "AL",
+    "teamColor": "#004687",
+    "latitude": 39.0517,
+    "longitude": -94.4803,
+    "description": "外野擁有壯麗水幕噴泉的水世界球場",
+    "localImagePath": "assets/stadium_photos/kauffman_stadium.jpg"
+  },
+  {
+    "team": "Oakland Athletics",
+    "name": "Sutter Health Park",
+    "league": "AL",
+    "teamColor": "#003831",
+    "latitude": 38.5802,
+    "longitude": -121.5120,
+    "description": "運動家隊暫時落腳的加州陽光球場",
+    "localImagePath": "assets/stadium_photos/oakland_coliseum.jpg"
+  },
+  {
+    "team": "Pittsburgh Pirates",
+    "name": "PNC Park",
+    "league": "NL",
+    "teamColor": "#FDB827",
+    "latitude": 40.4469,
+    "longitude": -80.0057,
+    "description": "可飽覽匹茲堡天際線與黃色大橋的絕美球場",
+    "localImagePath": "assets/stadium_photos/pnc_park.jpg"
+  },
+  {
+    "team": "Tampa Bay Rays",
+    "name": "Tropicana Field",
+    "league": "AL",
+    "teamColor": "#092C5C",
+    "latitude": 27.7682,
+    "longitude": -82.6534,
+    "description": "外野養著魔鬼魚觸摸池的室內巨蛋",
+    "localImagePath": "assets/stadium_photos/tropicana_field.jpg"
+  },
+  {
+    "team": "Washington Nationals",
+    "name": "Nationals Park",
+    "league": "NL",
+    "teamColor": "#AB0003",
+    "latitude": 38.8730,
+    "longitude": -77.0074,
+    "description": "坐落於首都華盛頓特區的國民隊主場",
+    "localImagePath": "assets/stadium_photos/nationals_park.jpg"
+  }
+]

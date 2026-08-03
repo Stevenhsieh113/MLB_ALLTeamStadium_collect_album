@@ -1,0 +1,28 @@
+name: flutter_application_1
+publish_to: 'none'
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^4.8.0
+  image_picker: ^1.2.3
+  path: ^1.9.1
+  shared_preferences: ^2.5.3
+
+flutter:
+  uses-material-design: true
+
+  # ==========================================
+  # ✅ 正確登記 JSON、地圖，以及「整個」照片資料夾
+  # ==========================================
+  assets:
+    - assets/stadiums_data.json
+    - assets/user_collection.json
+    - assets/usa_map.png
+    - assets/usa_map_ocean.png
+    - assets/stadium_photos/  # 根目錄球場預覽圖（不含子資料夾）
+    - assets/stadium_photos/AL_teamlogo/
+    - assets/stadium_photos/NL_teamlogo/

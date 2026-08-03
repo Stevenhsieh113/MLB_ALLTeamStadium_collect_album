@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "stadiums": {
+    "yankee_stadium": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "fenway_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "dodger_stadium": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "wrigley_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "oracle_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "citi_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "minute_maid_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "truist_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "rogers_centre": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "t-mobile_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "petco_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "citizens_bank_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "globe_life_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "busch_stadium": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "american_family_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "angel_stadium": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "chase_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "target_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "coors_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "loandepot_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "oriole_park_at_camden_yards": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "guaranteed_rate_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "great_american_ball_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "progressive_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "comerica_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "kauffman_stadium": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "oakland_coliseum": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "pnc_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "tropicana_field": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    },
+    "nationals_park": {
+      "hasTicket": false,
+      "hasCap": false,
+      "hasBobblehead": false,
+      "ticketPhotoPath": null,
+      "capPhotoPath": null,
+      "bobbleheadPhotoPath": null
+    }
+  }
+}
