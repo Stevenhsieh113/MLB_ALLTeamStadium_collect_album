@@ -1,20 +1,16 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # MLB_ALLTeamStadium_collect_album
->>>>>>> ff2d3b03d841a68ad12dd636dcd38344a0f9e8f9
+
+全美 MLB 球場巡禮收集 App（Flutter）。
+
+- 美聯 / 國聯分頁地圖
+- 球隊 logo 標點與懸停球場資訊
+- 三種收藏：票根、球帽、搖頭娃娃（可上傳照片，存在本機瀏覽器）
+
+## 如何執行
+
+1. 安裝 [Flutter](https://docs.flutter.dev/get-started/install)
+2. 在專案目錄執行：
+
+```bash
+flutter pub get
+flutter run -d edge
